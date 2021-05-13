@@ -8,8 +8,10 @@
 	url = https://github.com/matthiasgomolka/sdclog
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "simfinapi"]
 	path = simfinapi
 	url = https://github.com/matthiasgomolka/simfinapi
 	shallow = true
 	registered = true
+	oncran = true
