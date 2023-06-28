@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sdcLog"]
 	path = sdcLog
 	url = https://github.com/matthiasgomolka/sdclog
-	shallow = true
-	registered = true
 [submodule "simfinapi"]
 	path = simfinapi
 	url = https://github.com/matthiasgomolka/simfinapi
-	shallow = true
-	registered = true
